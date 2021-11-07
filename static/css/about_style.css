@@ -1,0 +1,11 @@
+body {
+    background: #999999;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+.links {
+    text-align: center;
+}

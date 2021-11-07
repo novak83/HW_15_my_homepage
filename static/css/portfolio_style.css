@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://miro.medium.com/max/1400/1*auQuyyb6aV5HMiGpoJGZkQ.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    margin-top: 50px;
+}
+
+a {
+    color: white;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+.links {
+    text-align: center;
+}
